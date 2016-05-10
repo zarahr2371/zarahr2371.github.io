@@ -1,3 +1,8 @@
 p{
-  color:blue;
+  color:black;
+}
+h{
+  color:pink;
+  font-style:bold;
+  font-size:25px;
 }
