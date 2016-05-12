@@ -1,20 +1,27 @@
 p{
   color:#A1D490;
+  font-family:"Arial";
 }
 h1{
   color:#C390D4;
   font-style:bold;
   font-size:25px;
+  font-family:"Verdana";
+  font-weight:bold;
 }
 h2{
   color:#E890C9;
   font-style:bold;
   font-size:25px;
+  font-family:"Verdana";
+  font-weight:bold;
 }
 h3{
   color:#E8DB90;
   font-style:bold;
   font-size:25px;
+  font-family:"Verdana";
+  font-weight:bold;
 }
 ol{
   color:#CBE890;
