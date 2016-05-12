@@ -1,27 +1,27 @@
 p{
-  color:blue;
+  color:#A1D490;
 }
 h1{
-  color:red;
+  color:#C390D4;
   font-style:bold;
   font-size:25px;
 }
 h2{
-  color:purple;
+  color:#E890C9;
   font-style:bold;
   font-size:25px;
 }
 h3{
-  color:orange;
+  color:#E8DB90;
   font-style:bold;
   font-size:25px;
 }
 ol{
-  color:black;
+  color:#CBE890;
   font-style:italic;
 }
 ul{
-  color:black;
+  color:#3F403E;
   font-style:italic;
 }
 img{
