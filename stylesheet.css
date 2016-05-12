@@ -1,39 +1,39 @@
 p{
-  color:#A1D490;
+  color:#C9204B;
   font-family:"Arial";
 }
 h1{
-  color:#C390D4;
+  color:#4FB8DB;
   font-style:bold;
   font-size:25px;
   font-family:"Verdana";
   font-weight:bold;
 }
 h2{
-  color:#E890C9;
+  color:#4FB8DB;
   font-style:bold;
   font-size:25px;
   font-family:"Verdana";
   font-weight:bold;
 }
 h3{
-  color:#E8DB90;
+  color:#4FB8DB;
   font-style:bold;
   font-size:25px;
   font-family:"Verdana";
   font-weight:bold;
 }
 ol{
-  color:#CBE890;
-  font-style:italic;
+  color:#C9204B;
+  font-weight:bold;
 }
 ul{
-  color:#3F403E;
-  font-style:italic;
+  color:#C9204B;
+  font-weight:bold;
 }
 img{
   width:100px;
 }
 body{
-  background-color:#90C3D4;
+  background-color:#007AA3;
 }
