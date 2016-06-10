@@ -40,5 +40,6 @@ body{
   background-color:#D4CDCF;
 }
 article{
+  display:in-line block;
   
 }
